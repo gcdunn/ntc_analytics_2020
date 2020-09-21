@@ -1,0 +1,20 @@
+name: wiki_topics
+dependencies:
+        - python==3.7
+        - numpy
+        - scipy
+        - pandas
+        - scikit-learn==0.23.1
+        - dill
+        - matplotlib
+        - seaborn==0.10.1
+        - nltk
+        - tqdm
+        - pip
+        - ipykernel
+        - pip:
+            - tensorflow==2.2.0
+            - keras==2.3.1
+            - gensim==3.8.3
+            - beautifulsoup4
+            - lxml
